@@ -10,7 +10,6 @@ public class GitAux {
     public void metodoAlumno1(){
         System.out.println("metodo 1");
 
-System.out.println("modificado por alumno 3"); //alumno 3
 
   	System.out.println("modificado por alumno 1"); // alumno 1
 
@@ -26,12 +25,11 @@ System.out.println("modificado por alumno 3"); //alumno 3
     public void metodoAlumno3(){
         System.out.println("metodo 3");
 
-	// modificaciones alumno 1
-	System.out.println("Alumno 1 inserta esta sentencia");
+
+	// modificaciones alumno 3
+	System.out.println("modificado por alumno 3"); //alumno 3
     }
-    
-	
- 
+   
     
     public void metodoComunitario(){
 	//Comentario incluido para pruebas
@@ -47,5 +45,6 @@ System.out.println("modificado por alumno 3"); //alumno 3
 	System.out.println("Alumno 1 inserta esta sentencia");
 
     }
+
 
 }
