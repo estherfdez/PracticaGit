@@ -8,8 +8,7 @@ package pkgGitHub;
  * @author alumno1: Esther Fernandez Martin
 >>>>>>> 9cbc2b759904896479272f33e833a1bcc7ea7d8d
  * @author alumno2: Sergio Tineo Bravo
- * @author alumno: <escribe tu nombre aqui>
- * 
+ * @author alumno3: Luis Fraile Pastrana
  */
 public class GitAux {
     
