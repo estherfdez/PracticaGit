@@ -1,0 +1,1 @@
+1- Proyecto comenzado sin alteraciones de practicas de las diapositivas
